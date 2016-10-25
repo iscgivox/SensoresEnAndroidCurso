@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AndroidStudioProjects\SensoresEnAndroidCurso\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9146f26bca05b08c82bcd5f15087abf52bfc6083">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\SensoresEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acb458062b285c9ce55638845d393d82e65f2491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AndroidStudioProjects\SensoresEnAndroidCurso\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0e6874616a0fc473b5cc5fc8ecc4680d1aad0177">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\SensoresEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_901015cc607e583018e0c526c996ef402add3ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\SensoresEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_06d9545f641367c5c99cd75d87e4cc7e73dbadc7\classes.dex" />
+    </item>
+
+</items>

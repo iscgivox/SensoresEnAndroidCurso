@@ -1,0 +1,7 @@
+#Tue Oct 25 11:48:21 CDT 2016
+base.0=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\SensoresEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acb458062b285c9ce55638845d393d82e65f2491
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\SensoresEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_901015cc607e583018e0c526c996ef402add3ba5\\classes.dex
+base.1=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\SensoresEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_901015cc607e583018e0c526c996ef402add3ba5
+file.0=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\SensoresEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_acb458062b285c9ce55638845d393d82e65f2491\\classes.dex
